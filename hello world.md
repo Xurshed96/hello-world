@@ -14,5 +14,8 @@ _Курсив._
 - Element 2
 - Element 3
 
-1. first element
-2. second element
+1. _first element_
+2. _second element_
+3. _first and second elements_
+
+## The beautiful place
